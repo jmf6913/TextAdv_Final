@@ -1,0 +1,6 @@
+Cliff	JungFloor	JungFloor	Jeep	
+	CheetahRoom	SpearRoom		
+	JungFloor	JungFloor		
+UnGrave	BrickRoad	BrickRoad	Waterfall	
+	GoblinRoom			
+	Temple			
